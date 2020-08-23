@@ -1,0 +1,21 @@
+20200823
+
+스터디
+
+shell은 파이썬에서 제공하는 하나의 연습장. 이걸 기준으로 생각하면 안된다. 실제 프로그램은 다르다.
+
+(깃허브)
+git이 기본 (git-scm.com)
+
+TIL = Today I Learn
+
+pwd = 현재 위치 확인 (git bash 창에서만 사용)
+
+git add = 일차 저장
+
+git commit = 정식 로컬 저장(본인 컴퓨터 안에 저장)
+
+git push = 깃허브에서 push 문장 하나씩 붙여넣기
+
+CrimsonRabbit
+ax!@0528
