@@ -36,3 +36,5 @@ def so_sim4(s):
     return "bye~"
 r=so_sim4("hello")
 print(r)
+
+#깃허브 업로드 테스
